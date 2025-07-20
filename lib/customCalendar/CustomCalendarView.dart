@@ -1,5 +1,5 @@
-import 'package:dev_to_codes/times_model.dart';
-import 'package:dev_to_codes/primary_button.dart';
+import 'package:dev_to_codes/customCalendar/times_model.dart';
+import 'package:dev_to_codes/customCalendar/primary_button.dart';
 import 'package:flutter/material.dart';
 
 class CustomCalendarView extends StatefulWidget {

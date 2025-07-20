@@ -14,7 +14,6 @@ TimesModel _$TimesModelFromJson(Map<String, dynamic> json) => TimesModel(
 
 Map<String, dynamic> _$TimesModelToJson(TimesModel instance) =>
     <String, dynamic>{
-      'isOpen': instance.isOpen,
       'openTime': instance.openTime,
       'closeTime': instance.closeTime,
     };
